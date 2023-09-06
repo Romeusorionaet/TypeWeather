@@ -1,7 +1,7 @@
 .home {
   width: 100%;
   height: calc(100vh - 48px);
-  background-image: url("background.png");
+  background-image: url("../../../public/background.png");
 
   display: flex;
   flex-direction: column;
