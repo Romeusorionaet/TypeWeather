@@ -4,9 +4,12 @@
 
 O TypeWeather é um aplicativo de previsão do tempo que permite aos usuários pesquisar o clima de diferentes locais e obter detalhes sobre a temperatura, sensação térmica, probabilidade de chuva, velocidade do vento, umidade do ar e variação da temperatura. Além disso, o aplicativo fornece previsões para até 5 dias.
 
+> Esta aplicação faz uso da Api [OpenWeather](https://openweathermap.org/)
+
 <div align='center'>
 
 ![preview](./public/previewDesktopTypeWeather.png)
+[TypeWeather](https://type-weather-2t8hfqeju-romeusorionaet.vercel.app)
 ![preview](./public/previewMobileTypeWeather.png)
 
 </div>
